@@ -1,21 +1,13 @@
 # Trabajo Fin de Grado - Ingenieria Informatica - Universidad de Cantabria
 Resumen
 
-Debido a las tareas de investigaci´on del grupo de Arquitectura y Tecnolog´ıa de Computadores de
-la UC, el simulador de redes de interconexi´on sobre el que trabajan sufre modificaciones continuas de
-c´odigo, lo que en ocasiones ha provocado tener que invertir un tiempo excesivo en localizar y solventar
-ciertos errores generados a consecuencia de dichos cambios.
-Con el objetivo de solucionar, o al menos minimizar el proceso de detecci´on y localizaci´on de estos
-errores, se ha elaborado un framework de verificaci´on compuesto por un conjunto de pruebas software para comprobar el correcto funcionamiento del simulador despu´es de haber sido modificado. En
-concreto, utilizando la librer´ıa Google Test, se han realizado pruebas unitarias que verifican m´odulos
-aislados del simulador y tests de integraci´on para comprobar el comportamiento en conjunto de un
-grupo de componentes interconectados. Tambi´en se ha elaborado una prueba de sistema mediante un
-script en Python que verifica el software completo.
-Adem´as, se ha englobado el framework en una estrategia de integraci´on continua con la herramienta Jenkins de modo que las pruebas se ejecuten tras aplicar cambios en el simulador o peri´odicamente,
-de manera autom´atica y transparente al programador.
-Esta buena pr´actica supone ventajas al proceso de desarrollo del software, ya que ayudar´a a los
-programadores a detectar la localizaci´on de los errores tras haber aplicado cambios en el c´odigo del
-simulador.
+Debido a las tareas de investigación del grupo de Arquitectura y Tecnología de Computadores de la UC, el simulador de redes de interconexión sobre el que trabajan sufre modificaciones continuas de código, lo que en ocasiones ha provocado tener que invertir un tiempo excesivo en localizar y solventar ciertos errores generados a consecuencia de dichos cambios.
+
+Con el objetivo de solucionar, o al menos minimizar el proceso de detección y localización de estos errores, se ha elaborado un framework de verificación compuesto por un conjunto de pruebas software para comprobar el correcto funcionamiento del simulador después de haber sido modificado. En concreto, utilizando la librería Google Test, se han realizado pruebas unitarias que verifican módulos aislados del simulador y tests de integración para comprobar el comportamiento en conjunto de un grupo de componentes interconectados. También se ha elaborado una prueba de sistema mediante un script en Python que verifica el software completo.
+
+Además, se ha englobado el framework en una estrategia de integración continua con la herramienta Jenkins de modo que las pruebas se ejecuten tras aplicar cambios en el simulador o periódicamente, de manera automática y transparente al programador.
+
+Esta buena práctica supone ventajas al proceso de desarrollo del software, ya que ayudará a los programadores a detectar la localización de los errores tras haber aplicado cambios en el código del simulador.
 
 Abstract
 
