@@ -1,5 +1,5 @@
 # Trabajo Fin de Grado - Ingenieria Informatica - Universidad de Cantabria
-# Resumen
+## Resumen
 
 Debido a las tareas de investigación del grupo de Arquitectura y Tecnología de Computadores de la UC, el simulador de redes de interconexión sobre el que trabajan sufre modificaciones continuas de código, lo que en ocasiones ha provocado tener que invertir un tiempo excesivo en localizar y solventar ciertos errores generados a consecuencia de dichos cambios.
 
