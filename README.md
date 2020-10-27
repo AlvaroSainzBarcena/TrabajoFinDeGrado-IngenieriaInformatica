@@ -9,7 +9,7 @@ Además, se ha englobado el framework en una estrategia de integración continua
 
 Esta buena práctica supone ventajas al proceso de desarrollo del software, ya que ayudará a los programadores a detectar la localización de los errores tras haber aplicado cambios en el código del simulador.
 
-Abstract
+## Abstract
 
 Due to the research tasks of the Arquitectura y Tecnolog´ıa de Computadores group of the UC, the
 simulator of interconnection networks on which they work undergoes continuous code modifications,
